@@ -105,7 +105,7 @@ In der lokalen commandline, verwende die folgenden commands um direkt auf den Ha
 git add .
 ```
 ```zsh
-git commit -m "feat: initial commit"
+git commit -m "feat: <commit Nachricht>"
 ```
 ```zsh
 git push -f origin head
