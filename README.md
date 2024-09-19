@@ -1,5 +1,7 @@
 # CD Bund Project Setup
 
+#################### DEUTSCH ####################
+
 ## Einleitung
 
 Diese Anleitung erklärt Schritt für Schritt, wie du das offizielle Website-Template des Bundes verwenden und auf Plesk hochladen kannst.
